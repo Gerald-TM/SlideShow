@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box
 }
+
 body {
     background-color: #222222;
     padding-top: 20px;
@@ -13,7 +14,7 @@ body {
     width: 70%;
     position: relative;
     margin: auto;
-   
+
 }
 
 
